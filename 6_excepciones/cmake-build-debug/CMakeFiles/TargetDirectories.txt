@@ -1,0 +1,3 @@
+C:/Users/Francisco/CLionProjects/6_excepciones/cmake-build-debug/CMakeFiles/6_excepciones.dir
+C:/Users/Francisco/CLionProjects/6_excepciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Francisco/CLionProjects/6_excepciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
