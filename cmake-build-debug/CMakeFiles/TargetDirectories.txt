@@ -1,3 +1,0 @@
-C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Repositories/Trabajo-Zoe-Dani-Rodrigo-Fran-Iker/cmake-build-debug/CMakeFiles/Trabajo_Zoe_Dani_Rodrigo_Fran_Iker.dir
-C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Repositories/Trabajo-Zoe-Dani-Rodrigo-Fran-Iker/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Ingeniería Informática UAX/2023-24/1er cuatrimestre/Programación/Repositories/Trabajo-Zoe-Dani-Rodrigo-Fran-Iker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
