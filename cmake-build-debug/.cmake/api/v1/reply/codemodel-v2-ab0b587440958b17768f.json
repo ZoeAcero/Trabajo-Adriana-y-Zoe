@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Trabajo_Zoe_Dani_Rodrigo_Fran_Iker",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Trabajo_Zoe_Dani_Rodrigo_Fran_Iker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Trabajo_Zoe_Dani_Rodrigo_Fran_Iker-Debug-69e5a7558d2c91c21164.json",
+					"name" : "Trabajo_Zoe_Dani_Rodrigo_Fran_Iker",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Ingenier\u00eda Inform\u00e1tica UAX/2023-24/1er cuatrimestre/Programaci\u00f3n/Repositories/Trabajo-Zoe-Dani-Rodrigo-Fran-Iker/cmake-build-debug",
+		"source" : "C:/Ingenier\u00eda Inform\u00e1tica UAX/2023-24/1er cuatrimestre/Programaci\u00f3n/Repositories/Trabajo-Zoe-Dani-Rodrigo-Fran-Iker"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

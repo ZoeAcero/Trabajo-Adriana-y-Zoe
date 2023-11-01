@@ -1,0 +1,14 @@
+//
+// Created by rodri on 01/11/2023.
+//
+
+#ifndef TRABAJO_ZOE_DANI_RODRIGO_FRAN_IKER_MAIN_H
+#define TRABAJO_ZOE_DANI_RODRIGO_FRAN_IKER_MAIN_H
+
+
+class main {
+
+};
+
+
+#endif //TRABAJO_ZOE_DANI_RODRIGO_FRAN_IKER_MAIN_H
